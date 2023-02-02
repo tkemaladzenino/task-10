@@ -219,6 +219,50 @@ ul>li:nth-child(7) {
 
 }
 
+/*----------------             hover        --------------------*/
+
+.home {
+
+    position: relative;
+    cursor: pointer;
+    padding-bottom: 3px;
+}
+
+.home::before {
+    position: absolute;
+    content: "";
+    width: 0;
+    height: 5px;
+    background: #5956EB;
+    bottom: 0;
+    left: 0;
+    border-radius: 5px;
+    transition: width 0.3s;
+    transition-delay: 0.05s;
+
+}
+
+.home::after {
+    position: absolute;
+    content: "";
+    width: 0;
+    height: 5px;
+    background: #FFDC60;
+    bottom: 0;
+    left: 0;
+    border-radius: 5px;
+    transition: width 0.3s;
+}
+
+.home:hover::before {
+    width: 100%;
+}
+
+.home:hover::after {
+    width: 50%;
+}
+
+
 /* ----------------------      -content         ---------*/
 
 .banner-main-part {
@@ -226,10 +270,9 @@ ul>li:nth-child(7) {
     height: 801px;
     margin-top: 0;
     position: relative;
-
-
-
 }
+
+
 
 .pictures {
     position: absolute;
