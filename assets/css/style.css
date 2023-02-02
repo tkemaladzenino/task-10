@@ -35,8 +35,8 @@ body {
     width: 1208px;
     height: 1208px;
     background: #F4F6FB;
-    right: -600px;
-    top: -137px;
+    right: -358px;
+    top: -198px;
     border-radius: 50%;
     z-index: 1;
 
@@ -162,11 +162,11 @@ ul>li:nth-child(1) {
 }
 
 ul>li:nth-child(2) {
-    padding-right: 59px;
+    padding-right: 62px;
 }
 
 ul>li:nth-child(3) {
-    padding-right: 59px;
+    padding-right: 62px;
 }
 
 ul>li:nth-child(4) {
@@ -234,7 +234,9 @@ ul>li:nth-child(7) {
 .pictures {
     position: absolute;
     top: 0px;
-    right: -42px;
+    right: -50px;
+
+
     z-index: 3;
 
 }
