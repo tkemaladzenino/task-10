@@ -21,13 +21,11 @@ body {
     margin: 0px;
 }
 
-.card {
 
-
+.card-1 {
     background: linear-gradient(111.23deg, #E9F7FF 9.95%, #FFDBD5 85.17%);
     overflow: hidden;
     position: relative;
-
 }
 
 .bg-white {
@@ -436,3 +434,211 @@ ul>li:nth-child(7) {
     top: 0;
 
 }
+
+
+/* ------------------------------- second-banner   --------------------------------------------------*/
+
+.card-2 {
+    background: #292930;
+    overflow: hidden;
+    position: relative;
+}
+
+.second-group {
+    height: 1579px;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.second-banner {
+    width: 1200px;
+    height: 1233px;
+
+}
+
+
+
+/*----------------*/
+
+.heading {
+    width: 1200px;
+    height: 126px;
+    display: inline-flex;
+    margin-bottom: 90px;
+
+}
+
+.heading-1 {
+    width: 747px;
+    height: 126px;
+    display: inline-flex;
+    margin-right: 279px;
+
+
+}
+
+.texts-heading {
+    width: 620px;
+    height: 126px;
+    flex-direction: column;
+    padding-left: 39px;
+
+}
+
+.heading-date {
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 156.5%;
+
+    letter-spacing: 0.135em;
+    text-transform: uppercase;
+
+    color: #D0D0D0;
+
+
+}
+
+.heading-text {
+
+
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 110.5%;
+
+    color: #FFFFFF;
+
+}
+
+.btn-1 {
+    padding-top: 64px;
+}
+
+.heading-button {
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    padding: 17px 18px 18px;
+    gap: 10px;
+    width: 174px;
+    height: 62px;
+
+    background: #FFFFFF;
+    border-radius: 7px;
+
+
+
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 160%;
+
+    text-transform: capitalize;
+
+    color: #292930;
+
+}
+
+/*-------*/
+
+.contacts {
+    height: 1017px;
+    justify-content: center;
+
+}
+
+.contacts-1 {
+
+    width: 1200px;
+    height: 475px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+
+    padding: 0px;
+    gap: 72px;
+
+
+}
+
+.contact-1-1 {
+    width: 352px;
+    height: 475px;
+    background: linear-gradient(180deg, #36363E 0%, #292930 100%);
+    border: 1px solid #424245;
+    border-radius: 30px;
+}
+
+
+.contact-1-2 {
+    width: 352px;
+    height: 475px;
+    background: linear-gradient(180deg, #36363E 0%, #292930 100%);
+    border: 1px solid #424245;
+    border-radius: 30px;
+}
+
+.contact-1-3 {
+    width: 352px;
+    height: 475px;
+    background: linear-gradient(180deg, #36363E 0%, #292930 100%);
+    border: 1px solid #424245;
+    border-radius: 30px;
+}
+
+/*-------------------*/
+
+.contacts-2 {
+
+
+    width: 1200px;
+    height: 475px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+
+    padding: 0px;
+    gap: 72px;
+
+    margin-top: 67px;
+
+
+}
+
+.contact-2-1 {
+    width: 352px;
+    height: 475px;
+    background: linear-gradient(180deg, #36363E 0%, #292930 100%);
+    border: 1px solid #424245;
+    border-radius: 30px;
+
+}
+
+.contact-2-2 {
+    width: 352px;
+    height: 475px;
+    background: linear-gradient(180deg, #36363E 0%, #292930 100%);
+    border: 1px solid #424245;
+    border-radius: 30px;
+}
+
+.contact-2-3 {
+    width: 352px;
+    height: 475px;
+    background: linear-gradient(180deg, #36363E 0%, #292930 100%);
+    border: 1px solid #424245;
+    border-radius: 30px;
+
+}
+
+/*   -----------------------------   end    second banner    -----------------------------------*/
