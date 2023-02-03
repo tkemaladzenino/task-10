@@ -567,15 +567,95 @@ ul>li:nth-child(7) {
     padding: 0px;
     gap: 72px;
 
-
 }
 
 .contact-1-1 {
     width: 352px;
     height: 475px;
+
     background: linear-gradient(180deg, #36363E 0%, #292930 100%);
     border: 1px solid #424245;
     border-radius: 30px;
+    padding-top: 41px;
+    padding-left: 39px;
+
+}
+
+.phone-in-circle {
+    padding-bottom: 26px;
+}
+
+.text-social {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 110.5%;
+
+    color: #FFFFFF;
+
+}
+
+.text-social-div {
+    padding-bottom: 14px;
+}
+
+.loren-ipsum-div {
+    padding-bottom: 26px;
+}
+
+.loren-ipsum {
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 156.5%;
+
+    color: #D0D0D0;
+
+}
+
+.read-more {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    gap: 8px;
+
+    width: 266px;
+    height: 62px;
+
+    background: linear-gradient(180deg, #36363E 0%, #292930 100%);
+    border-radius: 7px;
+    border: 1px solid #535355;
+
+
+
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 160%;
+
+    text-align: center;
+    color: #525255;
+}
+
+
+
+/*--------hover-----*/
+
+
+
+.read-more:hover {
+    background: #FFDD60;
+    color: #292930;
+    border: none;
+}
+
+.read-more:hover svg path {
+    color: #5956E8;
 }
 
 
@@ -640,5 +720,9 @@ ul>li:nth-child(7) {
     border-radius: 30px;
 
 }
+
+
+
+
 
 /*   -----------------------------   end    second banner    -----------------------------------*/
