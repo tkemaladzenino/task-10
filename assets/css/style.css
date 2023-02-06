@@ -657,6 +657,7 @@ ul>li:nth-child(7) {
 }
 
 
+
 .contact-1-2 {
     width: 352px;
     height: 475px;
@@ -814,7 +815,7 @@ ul>li:nth-child(7) {
 
     flex-direction: column;
 
-    background: #F6F6F6;
+    background: #F7F7F7;
     border: 1px solid #E2E2E2;
     border-radius: 10px;
 
