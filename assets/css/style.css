@@ -1043,3 +1043,456 @@ ul>li:nth-child(7) {
     height: 94px;
     padding-top: 45px;
 }
+
+/*  -------------------------------------             banner-3        ------------------------------*/
+
+.card-4 {
+    background: #F5F5F5;
+
+    overflow: hidden;
+    position: relative;
+    justify-content: center;
+    background: #292930;
+
+}
+
+.footer-0 {
+    height: 1032px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.footer {
+    display: flex;
+
+    gap: 99px;
+    width: 1200px;
+    height: 652.16px;
+    margin: 0 auto;
+
+}
+
+.footer-colomn-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 399px;
+    height: 652.16px;
+
+    background: #3C3C45;
+    border-radius: 7px;
+}
+
+.footer-content-1 {
+
+    width: 293px;
+    height: 554.16px;
+    display: flex;
+    flex-direction: column;
+}
+
+.megaph {
+
+    margin-top: 43.39px;
+    margin-bottom: 29.77px;
+}
+
+.ellipse-1 {
+    position: relative;
+}
+
+.ellipse-2 {
+    position: absolute;
+}
+
+.subscribe {
+    width: 288px;
+    height: 85px;
+    margin-bottom: 18px;
+}
+
+.subs {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 110.5%;
+
+    color: #FFFFFF;
+}
+
+.industry {
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 156.5%;
+
+    color: #D0D0D0;
+}
+
+.email {
+    width: 293px;
+    height: 62px;
+    padding-right: 70px;
+    top: 103px;
+
+    background: #5B5B61;
+    border-radius: 7px;
+    border: none;
+
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 160%;
+
+    text-transform: capitalize;
+
+    color: #FFFFFF;
+
+}
+
+.subscr-yellow {
+    width: 293px;
+    height: 62px;
+    left: 0px;
+    top: 183px;
+
+    background: #FFDC60;
+    border-radius: 7px;
+    border: none;
+
+
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 160%;
+
+    text-transform: capitalize;
+
+    color: #292930;
+}
+
+.email-butt {}
+
+.subs-butt {
+    margin-top: 18px;
+}
+
+
+/*---------------------------footer-colomn-2------------*/
+
+
+.footer-colomn-2 {
+    display: flex;
+
+    width: 702px;
+    height: 645px;
+    flex-direction: column;
+}
+
+.part-1 {
+    width: 702px;
+    height: 205px;
+    display: flex;
+    border-bottom: 1px solid #727274;
+
+
+}
+
+.address {
+    width: 255px;
+    height: 152px;
+    display: flex;
+    float: left;
+}
+
+
+
+.get-in-div {
+    width: 196px;
+    height: 28px;
+
+}
+
+.get-in {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 110.5%;
+
+    color: #FFFFFF;
+}
+
+.tel {
+    width: 255px;
+    height: 28px;
+    display: flex;
+    gap: 5px;
+    flex-direction: row;
+}
+
+.btn-phone-number {
+    margin-top: 17px;
+    margin-bottom: 17px;
+}
+
+.phone-number {
+    width: 255px;
+    height: 62px;
+    left: 0px;
+    top: 45px;
+
+    background: #3C3C45;
+    border-radius: 7px;
+    border: none;
+
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 156.5%;
+
+
+}
+
+.email-addr {
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 156.5%;
+
+    color: #FFFFFF;
+}
+
+/*------*/
+
+.location-box {
+    width: 297px;
+    height: 152px;
+    display: flex;
+    padding-left: 200px;
+
+}
+
+.locat-svg {
+    width: 120px;
+    height: 28px;
+    flex-direction: row;
+}
+
+.locat {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 110.5%;
+
+    color: #FFFFFF;
+}
+
+.suna-10-div {
+    width: 297px;
+    height: 56px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.suna-10 {
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 156.5%;
+
+    color: #FFFFFF;
+}
+
+.yellow-location {
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 156.5%;
+    text-decoration-line: underline;
+    color: #FFDC60;
+}
+
+
+
+/*  ---------------part-2--------*/
+
+.part-2 {
+    width: 682px;
+    height: 288px;
+    display: flex;
+    margin-top: 50px;
+    flex-direction: row;
+    gap: 111px;
+
+}
+
+
+/*--------------part-2-colomn-1 -----*/
+
+.part-2-colomn-1 {
+    width: 120px;
+    height: 288px;
+    display: flex;
+    flex-direction: column;
+}
+
+.two-icon {
+    width: 103px;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+
+}
+
+.pages {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 110.5%;
+
+    color: #FFFFFF;
+}
+
+.list1 {
+    width: 120px;
+    height: 228px;
+    display: flex;
+    flex-direction: column;
+
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 211.5%;
+
+    color: #FFFFFF;
+}
+
+/*----------------2 --------------------*/
+
+
+
+.part-2-colomn-2 {
+    width: 183px;
+    height: 248px;
+    margin-left: 132p;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.part-2-colomn-3 {
+    width: 117px;
+    height: 210px;
+}
+
+.two-pencil {
+    width: 183px;
+    height: 28px;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.utility {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 110.5%;
+
+    color: #FFFFFF;
+}
+
+.list2 {
+
+
+    width: 173px;
+    height: 190px;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 211.5%;
+
+    color: #FFFFFF;
+}
+
+
+
+/* ----------------------------------3-------------*/
+
+.two-foll {
+    width: 117px;
+    height: 28px;
+    margin-bottom: 30px;
+}
+
+.follows {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 110.5%;
+
+    color: #FFFFFF;
+
+}
+
+.list3 {
+    width: 93px;
+    height: 152px;
+
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 211.5%;
+
+    color: #FFFFFF;
+}
+
+/*---------*/
+
+.finish {
+    width: 702px;
+    height: 55px;
+
+    margin-top: 50px;
+    display: flex;
+    padding-top: 17px;
+    justify-content: center;
+    border-top: 1px solid #727274;
+
+}
+
+.copy-right {
+    width: 593px;
+    height: 38px;
+
+}
+
+.copy {
+
+
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 211.5%;
+    color: #FFFFFF;
+}
